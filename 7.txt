@@ -1,0 +1,11 @@
+JS para React:
+- Variables
+- Funciones
+- Condicionales
+- Promises
+- Ternarios
+- Async / Await
+- Objetos
+- Tipos de datos
+- Arrow Functions
+- Array Methods
