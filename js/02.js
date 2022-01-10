@@ -6,3 +6,5 @@ console.log(cliente)
 console.log(precio)
 
 // No se puede reasignar
+
+// No se puede iniciar sin valor
