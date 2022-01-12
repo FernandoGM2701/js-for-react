@@ -16,7 +16,17 @@ function multiplicar(num1, num2=1){
     console.log(num1*num2)
 }
 
-
 sumar()
 restar(20,8)
 multiplicar(5)
+
+
+// Funciones que retornan valores
+
+function dividir(num1, num2){
+    return num1/num2
+}
+
+const operacionDivision = dividir(30,6)
+
+console.log(operacionDivision)
