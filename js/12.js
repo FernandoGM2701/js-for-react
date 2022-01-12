@@ -4,4 +4,19 @@ function sumar(){
     console.log(2+2)
 }
 
+// Funciones con parámetros
+
+function restar(num1, num2){
+    console.log(num1-num2)
+}
+
+// Función con parámetro por default
+
+function multiplicar(num1, num2=1){
+    console.log(num1*num2)
+}
+
+
 sumar()
+restar(20,8)
+multiplicar(5)
