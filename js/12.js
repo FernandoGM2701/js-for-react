@@ -30,3 +30,5 @@ function dividir(num1, num2){
 const operacionDivision = dividir(30,6)
 
 console.log(operacionDivision)
+
+// Incluso se puede retornar un Array y hacer un Destructuring Array
