@@ -1,2 +1,2 @@
-# js-for-react
-Tutorial de Js por React realizado por Fernando Gutierrez
+# JavaScript for React
+Tutorial de JavaScript para React realizado por Fernando Gutierrez
